@@ -2,11 +2,7 @@
 Moh. Fadel Farista - 231011401386
 
 Repository ini dibuat untuk mendokumentasikan seluruh proses pembelajaran dan praktikum mata kuliah **Machine Learning**.  
-Proyek ini berfokus pada penerapan **algoritma Random Forest** dan **Artificial Neural Network (ANN)** untuk menyelesaikan kasus **klasifikasi biner** menggunakan data tabular.
-
----
-
-### 🔍 Tahapan Proyek
+Proyek ini berfokus pada penerapan **algoritma Random Forest** dan **Artificial Neural Network (ANN)** untuk menyelesaikan kasus **klasifikasi biner** menggunakan data tabula
 1. **Data Collection**  
    Mengumpulkan dataset yang berisi data kelulusan mahasiswa, kemudian menyimpannya dalam format CSV agar mudah diolah.
 
@@ -53,9 +49,5 @@ Proyek ini berfokus pada penerapan **algoritma Random Forest** dan **Artificial 
 - File model tersimpan dalam format `.pkl`.  
 - Visualisasi hasil pelatihan (learning curve, ROC curve, confusion matrix).  
 - File `requirement.txt` berisi daftar library yang digunakan agar mudah direproduksi.
-
----
-
-### 👨‍💻 Disusun oleh
 **Moh. Fadel Farista** 
-2025
+2025knkb
